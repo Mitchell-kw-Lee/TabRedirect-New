@@ -1,4 +1,4 @@
-# NewTab Redirect!
+# TabRedirect-New
 
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://github.com/Mitchell-kw-Lee/TabRedirect-New/tree/master)
