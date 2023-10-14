@@ -1,4 +1,7 @@
-# TabRedirect-New!
+# NewTab Redirect!
+
+
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://github.com/Mitchell-kw-Lee/TabRedirect-New/tree/master)
 
 ## Google Chrome Extension
 _disclaimer: Google and Google Chrome are trademarks of Google, Inc. [NewTab Redirect! is an extension for Google Chrome](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)_
