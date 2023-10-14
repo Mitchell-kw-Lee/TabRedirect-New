@@ -4,7 +4,7 @@
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://github.com/Mitchell-kw-Lee/TabRedirect-New/tree/master)
 
 ## Google Chrome Extension
-_disclaimer: Google and Google Chrome are trademarks of Google, Inc. [NewTab Redirect! is an extension for Google Chrome](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)_
+_disclaimer: Google and Google Chrome are trademarks of Google, Inc. [TabRedirect-New! is an extension for Google Chrome](https://chrome.google.com/webstore/detail/new-tab-redirect/icpgjfneehieebagbmdbhnlpiopdcmna?hl=en)_
 
 Sets a custom URL to load in new tabs.  Choose from:
  *  Chrome's about pages
@@ -39,7 +39,7 @@ If I have some free time, I don't mind answering questions related to other issu
 
 ## Legal
 
-NewTab Redirect is released under the [MIT license](http://bit.ly/mit-license). NewTab Redirect was previously hosted on [Google Projects](http://code.google.com/p/newtabredirect/) under [GPLv3 license](http://www.gnu.org/licenses/gpl.html). You *may not* redistribute this software without proper attribution.
+TabRedirect-New is released under the [MIT license](http://bit.ly/mit-license). TabRedirect-New was previously hosted on [Google Projects](http://code.google.com/p/newtabredirect/) under [GPLv3 license](http://www.gnu.org/licenses/gpl.html). You *may not* redistribute this software without proper attribution.
 
 * AngularJS: Code is MIT Licensed. Details are available [here](https://github.com/angular/angular.js/blob/master/LICENSE)
 
