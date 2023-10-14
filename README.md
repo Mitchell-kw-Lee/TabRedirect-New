@@ -25,9 +25,9 @@ This is not meant to replace your homepage, only new tabs.  If your browser is s
 
 ## Omnibar support
 
-If you use the built-in New Tab Redirect Apps page, you will be able to type directly into the omnibar. If you use a custom url, the architecture of the extension can not allow for focusing or clearing of the omnibar.
+If you use the built-in TabRedirect-New Apps page, you will be able to type directly into the omnibar. If you use a custom url, the architecture of the extension can not allow for focusing or clearing of the omnibar.
 
-Google Chrome extensions do not currently have access to interact with the omnibar for highlighting after the new page is created.  There is an experimental API to retrieve values and detect user input in the omnibar, but it does not allow extensions to highlight the text.  I've tested version 1.0.1 of New Tab Redirect! across numerous developer builds, and the cursor only occasionally ends at the end of the omnibar.  However, this is handled by Chrome itself and can not be modified via the extension.  As soon as Chrome offers this functionality, I will implement it.  Until then, it is possible to use `CTRL+L` to quickly highlight the omnibar.
+Google Chrome extensions do not currently have access to interact with the omnibar for highlighting after the new page is created.  There is an experimental API to retrieve values and detect user input in the omnibar, but it does not allow extensions to highlight the text.  I've tested version 1.0.1 of TabRedirect-New! across numerous developer builds, and the cursor only occasionally ends at the end of the omnibar.  However, this is handled by Chrome itself and can not be modified via the extension.  As soon as Chrome offers this functionality, I will implement it.  Until then, it is possible to use `CTRL+L` to quickly highlight the omnibar.
 
 
 ## No affiliation with Google!
@@ -35,7 +35,7 @@ Google Chrome extensions do not currently have access to interact with the omnib
 _I am not affiliated with Google or Google Chrome.  
 Google Chrome is a registered trademark of Google, Inc._
 
-If I have some free time, I don't mind answering questions related to other issues you're having with Google Chrome (outside of the New Tab Redirect extension). I don't have a lot of free time, though.
+If I have some free time, I don't mind answering questions related to other issues you're having with Google Chrome (outside of the TabRedirect-New extension). I don't have a lot of free time, though.
 
 ## Legal
 
